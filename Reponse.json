@@ -1,0 +1,106 @@
+{
+  "personal_information": {
+    "name": "Satwik Uppada",
+    "email": "uppadasatwik@gmail.com",
+    "phone": "+91 8247068881",
+    "location": "Phagwara, Punjab",
+    "linkedin": "www.linkedin.com/in/satwik-uppada",
+    "github": "https://github.com/Satwik-uppada"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "field_of_study": "Computer Science",
+      "institution": "Lovely Professional University",
+      "location": "Phagwara, Punjab",
+      "dates_attended": "Since 2021",
+      "cgpa": "7.92"
+    },
+    {
+      "degree": "Intermediate",
+      "institution": "Sasi Junior College",
+      "location": "Velivennu, Andhra Pradesh",
+      "dates_attended": "Apr. 2019 - Mar 2021",
+      "percentage": "95.1%"
+    }
+  ],
+  "experience": [
+    {
+      "company": "EVOASTRA VENTURES",
+      "job_title": "Data science Intern",
+      "dates_employed": "July 2024 - Present",
+      "responsibilities": [
+        "Led a team in task management and project coordination",
+        "Executed web scraping to gather data for analysis",
+        "Cleaned and prepared data using exploratory data analysis (EDA) techniques",
+        "Created and presented data visualizations with Power BI to communicate insights effectively"
+      ]
+    },
+    {
+      "company": "TECHNOHACKS",
+      "job_title": "Machine learning intern",
+      "dates_employed": "June 2024 - July 2024",
+      "responsibilities": [
+        "Developed machine learning-based web applications using Streamlit",
+        "Designed intuitive user interfaces with interactive forms and informative displays",
+        "Integrated pre-trained ml models with web interfaces"
+      ]
+    },
+    {
+      "company": "CYBER DOSTI",
+      "job_title": "Data Science Intern",
+      "dates_employed": "September 2023 - October 2023",
+      "responsibilities": [
+        "Analyzed 49,000 records with 16 attributes on occupation, work class, capital gain, etc.",
+        "Developed and implemented high-accuracy machine learning models for fake news detection",
+        "Designed and implemented a text-based virtual assistant using Python and Bard API"
+      ]
+    }
+  ],
+  "skills": {
+    "web_technologies": ["HTML", "CSS", "Streamlit", "Tkinter"],
+    "libraries": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Beautiful Soup", "Sklearn", "Scipy", "NLTK", "SpaCy", "Sweetviz", "Ydata-Profiling"],
+    "languages": ["Python", "SQL"],
+    "data_science_skills": ["Data Analysis", "Machine Learning", "NLP", "Data wrangling", "Data visualization", "Web Scraping"],
+    "tools": ["Power BI", "Ms. Excel", "PowerPoint", "Git", "VsCode", "Docker"]
+  },
+  "projects": [
+    {
+      "name": "Amazon Product Sales Analysis",
+      "description": "Utilized Python and data visualization techniques to analyze Amazon product sales data, identifying key trends in pricing, sales performance, and customer behavior.",
+      "technologies_used": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scipy"]
+    },
+    {
+      "name": "Student Registration System",
+      "description": "Developed Python-based software for automating student registration, data collection, and course allocation with a user-friendly interface.",
+      "technologies_used": ["Python", "Excel", "Tkinter"]
+    },
+    {
+      "name": "Salary Forecasting and Developer Insights",
+      "description": "Developed a data science project using Stack OverFlow Developer Survey Data 2023, implementing machine learning models for salary predictions.",
+      "technologies_used": ["Python", "Scikit-learn", "Pandas", "Streamlit", "Streamlit_option_menu"]
+    },
+    {
+      "name": "Water Quality Monitoring and Prediction System",
+      "description": "Developed a Streamlit-based web app for real-time water quality assessment using various ml models, with secure login and personalized data storage.",
+      "technologies_used": ["Python", "MySQL", "Sqlite3", "Streamlit", "Firebase Admin", "JSON", "Requests", "Pandas", "Sklearn", "NumPy", "Plotly"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning (Self-Paced)",
+      "issuer": "Analytics Vidya",
+      "date": "Feb 2024 - Mar 2024"
+    },
+    {
+      "name": "Introduction to Natural Language Processing (Self-Paced)",
+      "issuer": "Analytics Vidya",
+      "date": "Feb 2024 - Mar 2024"
+    },
+    {
+      "name": "Data Structures and Algorithms (live classes)",
+      "issuer": "Cipher schools",
+      "date": "June 2023 - July 2023"
+    }
+  ]
+}
